@@ -19,3 +19,7 @@ PYSPARK_PYTHON: C:\Users\ly_ba\anaconda3\envs\pyspark_env\python.exe
 Path: %JAVA_HOME%\bin;.....
 
 SPARK_LOCAL_HOSTNAME: localhost
+
+# install jupyter
+conda install jupyter                # install jupyter + notebook
+jupyter notebook  
